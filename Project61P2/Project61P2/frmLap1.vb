@@ -17,11 +17,15 @@
         name = pname.Text
         salary = pmoney.Text
 
-        txtname.Text = name
-        txtsalary.Text = salary
-        txttotalsalary.Text = salary * 12
+        lblname.Text = name
+        lblsalary.Text = salary
+        lbltotaltotal.Text = salary * 12
 
 
+
+    End Sub
+
+    Private Sub Label6_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblname.Click, lbltotaltotal.Click, lblsalary.Click
 
     End Sub
 End Class

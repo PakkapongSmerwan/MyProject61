@@ -30,9 +30,9 @@ Partial Class frmLap1
         Me.Label5 = New System.Windows.Forms.Label()
         Me.pname = New System.Windows.Forms.TextBox()
         Me.pmoney = New System.Windows.Forms.TextBox()
-        Me.txtname = New System.Windows.Forms.TextBox()
-        Me.txtsalary = New System.Windows.Forms.TextBox()
-        Me.txttotalsalary = New System.Windows.Forms.TextBox()
+        Me.lblname = New System.Windows.Forms.Label()
+        Me.lblsalary = New System.Windows.Forms.Label()
+        Me.lbltotaltotal = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Button1
@@ -103,35 +103,41 @@ Partial Class frmLap1
         Me.pmoney.Size = New System.Drawing.Size(182, 20)
         Me.pmoney.TabIndex = 2
         '
-        'txtname
+        'lblname
         '
-        Me.txtname.Location = New System.Drawing.Point(328, 222)
-        Me.txtname.Name = "txtname"
-        Me.txtname.Size = New System.Drawing.Size(182, 20)
-        Me.txtname.TabIndex = 4
+        Me.lblname.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.lblname.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.lblname.Location = New System.Drawing.Point(328, 219)
+        Me.lblname.Name = "lblname"
+        Me.lblname.Size = New System.Drawing.Size(182, 23)
+        Me.lblname.TabIndex = 4
         '
-        'txtsalary
+        'lblsalary
         '
-        Me.txtsalary.Location = New System.Drawing.Point(328, 284)
-        Me.txtsalary.Name = "txtsalary"
-        Me.txtsalary.Size = New System.Drawing.Size(182, 20)
-        Me.txtsalary.TabIndex = 5
+        Me.lblsalary.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.lblsalary.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.lblsalary.Location = New System.Drawing.Point(328, 284)
+        Me.lblsalary.Name = "lblsalary"
+        Me.lblsalary.Size = New System.Drawing.Size(182, 23)
+        Me.lblsalary.TabIndex = 4
         '
-        'txttotalsalary
+        'lbltotaltotal
         '
-        Me.txttotalsalary.Location = New System.Drawing.Point(328, 344)
-        Me.txttotalsalary.Name = "txttotalsalary"
-        Me.txttotalsalary.Size = New System.Drawing.Size(182, 20)
-        Me.txttotalsalary.TabIndex = 6
+        Me.lbltotaltotal.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.lbltotaltotal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.lbltotaltotal.Location = New System.Drawing.Point(328, 344)
+        Me.lbltotaltotal.Name = "lbltotaltotal"
+        Me.lbltotaltotal.Size = New System.Drawing.Size(182, 23)
+        Me.lbltotaltotal.TabIndex = 4
         '
         'frmLap1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(959, 454)
-        Me.Controls.Add(Me.txttotalsalary)
-        Me.Controls.Add(Me.txtsalary)
-        Me.Controls.Add(Me.txtname)
+        Me.Controls.Add(Me.lbltotaltotal)
+        Me.Controls.Add(Me.lblsalary)
+        Me.Controls.Add(Me.lblname)
         Me.Controls.Add(Me.pmoney)
         Me.Controls.Add(Me.pname)
         Me.Controls.Add(Me.Label5)
@@ -154,8 +160,8 @@ Partial Class frmLap1
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents pname As System.Windows.Forms.TextBox
     Friend WithEvents pmoney As System.Windows.Forms.TextBox
-    Friend WithEvents txtname As System.Windows.Forms.TextBox
-    Friend WithEvents txtsalary As System.Windows.Forms.TextBox
-    Friend WithEvents txttotalsalary As System.Windows.Forms.TextBox
+    Friend WithEvents lblname As System.Windows.Forms.Label
+    Friend WithEvents lblsalary As System.Windows.Forms.Label
+    Friend WithEvents lbltotaltotal As System.Windows.Forms.Label
 
 End Class
