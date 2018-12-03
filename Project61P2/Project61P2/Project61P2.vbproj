@@ -72,6 +72,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmLap1.designer.vb">
+      <DependentUpon>frmLap1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLap1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmlap2.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmLap1.resx">
+      <DependentUpon>frmLap1.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmlap2.resx">
       <DependentUpon>frmlap2.vb</DependentUpon>
     </EmbeddedResource>

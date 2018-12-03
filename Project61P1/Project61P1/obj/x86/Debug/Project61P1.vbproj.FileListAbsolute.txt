@@ -10,3 +10,9 @@ C:\Users\user\AppData\Local\Temporary Projects\Project61P1\obj\x86\Debug\Project
 D:\MyProject61\Project61P1\Project61P1\obj\x86\Debug\Project61P1.exe
 D:\MyProject61\Project61P1\Project61P1\obj\x86\Debug\Project61P1.xml
 D:\MyProject61\Project61P1\Project61P1\obj\x86\Debug\Project61P1.pdb
+D:\MyProject61\Project61P1\Project61P1\bin\Debug\Project61P1.exe
+D:\MyProject61\Project61P1\Project61P1\bin\Debug\Project61P1.pdb
+D:\MyProject61\Project61P1\Project61P1\bin\Debug\Project61P1.xml
+D:\MyProject61\Project61P1\Project61P1\obj\x86\Debug\Project61P1.Form1.resources
+D:\MyProject61\Project61P1\Project61P1\obj\x86\Debug\Project61P1.Resources.resources
+D:\MyProject61\Project61P1\Project61P1\obj\x86\Debug\Project61P1.vbproj.GenerateResource.Cache
