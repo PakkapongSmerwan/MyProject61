@@ -8,3 +8,15 @@ D:\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.exe
 D:\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.xml
 D:\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.pdb
 D:\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.frmLap1.resources
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.exe
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.xml
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.pdb
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.frmLab3.resources
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.frmLap1.resources
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.frmLap2.resources
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.Resources.resources
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.vbproj.GenerateResource.Cache
+D:\MyProject61\MyProject61\Project61P2\Project61P2\bin\Debug\Project61P2.exe
+D:\MyProject61\MyProject61\Project61P2\Project61P2\bin\Debug\Project61P2.pdb
+D:\MyProject61\MyProject61\Project61P2\Project61P2\bin\Debug\Project61P2.xml
+D:\MyProject61\MyProject61\Project61P2\Project61P2\obj\x86\Debug\Project61P2.frmJob4.resources
